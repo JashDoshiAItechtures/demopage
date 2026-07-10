@@ -50,7 +50,8 @@ async function initDatabase() {
       { email: 'sm@stacklogix.com', password: 'Stacklogix' },
       { email: 'kevin@stacklogix.com', password: 'Stacklogix' },
       { email: 'ashmi@stacklogix.com', password: 'Stacklogix' },
-      { email: 'jash@stacklogix.com', password: 'Stacklogix' }
+      { email: 'jash@stacklogix.com', password: 'Stacklogix' },
+      { email: 'marketing@stacklogix.com', password: 'Stacklogix' }
     ];
 
     for (const u of usersToSeed) {
